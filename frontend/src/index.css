@@ -1,0 +1,278 @@
+body {
+  background-color: #f5f5f5;
+}
+.email-div {
+  line-height: 1.5;
+}
+
+.email-field {
+  height: 52px;
+}
+
+.email-field:focus {
+  border-color: rgb(37, 156, 247);
+  box-shadow: none;
+}
+
+.login-box {
+  border-radius: 10px;
+  box-shadow: 0 10px 34px -15px rgb(0 0 0 / 24%);
+  background-color: #fff;
+}
+
+.login-button-field {
+  height: 52px;
+}
+
+.password-div {
+  line-height: 1.5;
+}
+
+.password-field {
+  height: 52px;
+}
+
+.password-field:focus {
+  border-color: rgb(37, 156, 247);
+  box-shadow: none;
+}
+
+.register-box {
+  border-radius: 10px;
+  box-shadow: 0 10px 34px -15px rgb(0 0 0 / 24%);
+  background-color: #fff;
+}
+
+.re-password-div {
+  line-height: 1.5;
+}
+
+.re-password-field {
+  height: 52px;
+}
+
+.re-password-field:focus {
+  border-color: rgb(37, 156, 247);
+  box-shadow: none;
+}
+
+.review-field:focus {
+  border-color: rgb(37, 156, 247);
+  box-shadow: none;
+}
+
+.paginationBttns {
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #2b2eff;
+  color: #2b2eff;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white !important;
+  font-weight: bold;
+  background-color: #2b2eff;
+}
+
+.paginationActive a {
+  color: white !important;
+  font-weight: bold;
+  background-color: #2b2eff;
+}
+
+.training_features {
+  width: 600px;
+  height: 300px;
+}
+
+.bg-premium-dark {
+  background-image: linear-gradient(
+    to right,
+    #434343 0%,
+    black 100%
+  ) !important;
+}
+
+.bg-midnight-bloom {
+  background-image: linear-gradient(
+    -20deg,
+    #2b5876 0%,
+    #4e4376 100%
+  ) !important;
+}
+
+.bg-purple-love {
+  background-image: linear-gradient(
+    135deg,
+    #cc2b5e 0%,
+    #753a88 100%
+  ) !important;
+}
+
+.bg-plum-plate {
+  background-image: linear-gradient(
+    135deg,
+    #667eea 0%,
+    #764ba2 100%
+  ) !important;
+}
+
+.bg-tranquil {
+  background-image: linear-gradient(
+    135deg,
+    #eecda3 0%,
+    #ef629f 100%
+  ) !important;
+}
+
+.bg-roseanna {
+  background-image: linear-gradient(
+    135deg,
+    #ffafbd 0%,
+    #ffc3a0 100%
+  ) !important;
+}
+
+.bg-mauve {
+  background-image: linear-gradient(
+    135deg,
+    #42275a 0%,
+    #734b6d 100%
+  ) !important;
+}
+
+.bg-lost-memory {
+  background-image: linear-gradient(
+    135deg,
+    #de6262 0%,
+    #ffb88c 100%
+  ) !important;
+}
+
+.bg-virgin-america {
+  background-image: linear-gradient(
+    135deg,
+    #7b4397 0%,
+    #dc2430 100%
+  ) !important;
+}
+
+.bg-sweet-morning {
+  background-image: linear-gradient(
+    135deg,
+    #ff5f6d 0%,
+    #ffc371 100%
+  ) !important;
+}
+
+.bg-endless-river {
+  background-image: linear-gradient(
+    135deg,
+    #43cea2 0%,
+    #185a9d 100%
+  ) !important;
+}
+
+.bg-forest {
+  background-image: linear-gradient(
+    135deg,
+    #5a3f37 0%,
+    #2c7744 100%
+  ) !important;
+}
+
+.bg-pizelex {
+  background-image: linear-gradient(
+    135deg,
+    #114357 0%,
+    #f29492 100%
+  ) !important;
+}
+
+.bg-poncho {
+  background-image: linear-gradient(
+    135deg,
+    #403a3e 0%,
+    #be5869 100%
+  ) !important;
+}
+
+.bg-opa {
+  background-image: linear-gradient(
+    135deg,
+    #3d7eaa 0%,
+    #ffe47a 100%
+  ) !important;
+}
+
+.bg-coal {
+  background-image: linear-gradient(
+    to right,
+    #eb5757 0%,
+    #000000 100%
+  ) !important;
+}
+
+.bg-delicate {
+  background-image: linear-gradient(to right, #d3cce3, #e9e4f0) !important;
+}
+
+.font-size-xxl {
+  font-size: 1.6625rem;
+}
+
+.d-50 {
+  height: 50px !important;
+  line-height: 50px !important;
+  width: 50px !important;
+}
+
+.card {
+  border-radius: 0.65rem !important;
+}
+
+.text-dark-purple {
+  color: #993366;
+}
+
+.text-dull-purple {
+  color: #7575a3;
+}
+
+.text-bright-blue {
+  color: #00aaff;
+}
+
+.text-dark-primary {
+  color: #3c44b1;
+}
+
+.text-orange {
+  color: #ff751a;
+}
+
+.text-light-pink {
+  color: #ffcff7;
+}
+
+.text-light-brown {
+  color: #806640;
+}
+
+.rounded-radius-top {
+  border-top-left-radius: 0.65rem !important;
+  border-top-right-radius: 00.65rem !important;
+}
+
+.my-container-div {
+  margin-top: 70px;
+}
